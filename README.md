@@ -41,13 +41,8 @@ Conteúdo gerado via ChatGPT
 Imagens do acervo público geradas via Lexica.art
 
 
-## 📚 Materiais
-prompts utilizados
-
-## 🛠️ Instruções de execução
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da DIO.
-
 
 ## 👨‍💻 Expert
 Fábio Soares
+
 GitHub |  LinkedIn  | 
