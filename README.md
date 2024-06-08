@@ -16,9 +16,16 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 
 
-##💻 Tecnologias utilizadas no projeto
+## 💻 Tecnologias utilizadas no projeto
 ChatGPT - para título e conteúdo
 Lexica.art - para gerar imagens
 Google Apresentações - Para formatação de banners e Layouts
 
-##📄 Prompts e ferramentas
+## 📄 Prompts e ferramentas
+
+ChatGPT:
+
+| Ação     | Prompt              |
+| ---------|---------------------|
+| Título   | Crie um titulo de um ebook, sobre o tema educação financeira. o ebook é do nicho de finanças pessoais e do subnicho é de orçamento e investimentos. o titulo deve ser épico e curto e tenha uma temática mais feminina no titulo. Me liste 5 variações de títulos  |
+| Conteúdo |faça um texto para ebook, com foco em Orcamento pessoal e Investimentos, listando os principais topicos com exemplos praticos {REGRAS} Explique sempre de uma maneira simples; Deixe o texto enxuto; Sempre traga exemplos em contextos reais; Sempre deixe um título sugestivo por tópico |
