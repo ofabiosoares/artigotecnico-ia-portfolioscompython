@@ -12,7 +12,7 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover conhecimento sobre uso de Inteligência Artificial como ferramenta de apredinzado do BootCamp Santander 2024: Fundamentos de IA para Devs. 
 
-📕[Clique aqui para ler o artigo][(https://github.com/ofabiosoares/ebook-chatgpt/blob/main/ebook.pdf](https://web.dio.me/articles/aumente-a-rentabilidade-do-seu-portfolio-tecnicas-de-python-para-investidores?back=%2Farticles&page=1&order=oldest))
+📕[Clique aqui para ler o artigo][(https://web.dio.me/articles/aumente-a-rentabilidade-do-seu-portfolio-tecnicas-de-python-para-investidores?back=%2Farticles&page=1&order=oldest)]
 
 
 ## 💻 Tecnologias utilizadas no projeto
