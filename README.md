@@ -45,4 +45,4 @@ Imagens do acervo público geradas via Lexica.art
 ## 👨‍💻 Expert
 Fábio Soares
 
-GitHub |  LinkedIn  | 
+| [GitHub]() |  [Linkedin]()  | 
