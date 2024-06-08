@@ -18,7 +18,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 ## 💻 Tecnologias utilizadas no projeto
 
 * [ChatGPT](https://chat.openai.com) - para título e conteúdo
-* [Copilot - Designer](https://copilot.microsoft.com/) - para gerar imagens 
+* [Lexica art](https://lexica.art ) - para gerar imagens 
 * [Google Apresentações](https://www.google.com/intl/pt-BR/slides/about/) - para formatação de banners e layouts
 
 ## 📄 Prompts e ferramentas
@@ -28,4 +28,16 @@ ChatGPT:
 | Ação     | Prompt              |
 | ---------|---------------------|
 | Título   | Crie 10 headlines para nomes de artigos sobre o assunto gestão de portfolios com python |
-| Conteúdo |faça um texto para ebook, com foco em Orcamento pessoal e Investimentos, listando os principais topicos com exemplos praticos {REGRAS} Explique sempre de uma maneira simples; Deixe o texto enxuto; Sempre traga exemplos em contextos reais; Sempre deixe um título sugestivo por tópico |
+| Conteúdo |como um escritor de artigos tech back-end python e escreva o artigo atendendo as regras abaixo:
+
+{REGRAS}
+> me explique de maneira informal, como se eu fosse um pai de familia
+> no maximo 5 linhas por blocos de explicacao
+> crie sub titulos e separe por blocos cada parte do artigo
+> os blocos que serao criados estao abaixo:
+- o que são portfolios de investimentos 
+- o que gestão de portfolio com python
+- cite exemplos com codigo em python de gestao de portfolio para aumentar os ganhos e reduzir riscos
+ 
+- faca um call to action para as minhas redes sociais
+- coloque 3 hashtags que façam sentido|
