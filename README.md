@@ -29,3 +29,25 @@ ChatGPT:
 | ---------|---------------------|
 | Título   | Crie 10 headlines para nomes de artigos sobre o assunto gestão de portfolios com python |
 | Conteúdo |como um escritor de artigos tech back-end python e escreva o artigo atendendo as regras abaixo: {REGRAS}: Explique de maneira informal, como se eu fosse um pai de familia, utilize no maximo 5 linhas por blocos de explicaca, crie sub titulos e separe por blocos cada parte do artigo, os blocos que serao criados estao abaixo:, o que são portfolios de investimentos , o que gestão de portfolio com python, cite exemplos com codigo em python de gestao de portfolio para aumentar os ganhos e reduzir riscos, faca um call to action para as minhas redes sociais, coloque 3 hashtags que façam sentido|
+
+
+Lexica.art：
+
+No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram:
+• python and investiments
+
+# ✨ Features
+Conteúdo gerado via ChatGPT
+Imagens do acervo público geradas via Lexica.art
+
+
+# 📚 Materiais
+prompts utilizados
+
+# 🛠️ Instruções de execução
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da DIO.
+
+
+# 👨‍💻 Expert
+Fábio Soares
+GitHub |  LinkedIn  | 
