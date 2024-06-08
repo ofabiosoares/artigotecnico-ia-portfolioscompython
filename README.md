@@ -16,8 +16,9 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 
 
-💻 Tecnologias utilizadas no projeto
+#💻 Tecnologias utilizadas no projeto
 ChatGPT - para título e conteúdo
 Lexica.art - para gerar imagens
 Google Apresentações - Para formatação de banners e Layouts
-📄 Prompts e ferramentas
+
+#📄 Prompts e ferramentas
