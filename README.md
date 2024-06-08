@@ -8,6 +8,8 @@
 
 # Projeto artigo técnico gerado por I.A.s
 
+---
+
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover conhecimento sobre uso de Inteligência Artificial como ferramenta de apredinzado do BootCamp Santander 2024: Fundamentos de IA para Devs. 
 
 📕Clique aqui para ler o artigo
