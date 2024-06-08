@@ -36,18 +36,18 @@ Lexica.art：
 No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foram:
 • python and investiments
 
-# ✨ Features
+## ✨ Features
 Conteúdo gerado via ChatGPT
 Imagens do acervo público geradas via Lexica.art
 
 
-# 📚 Materiais
+## 📚 Materiais
 prompts utilizados
 
-# 🛠️ Instruções de execução
+## 🛠️ Instruções de execução
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da DIO.
 
 
-# 👨‍💻 Expert
+## 👨‍💻 Expert
 Fábio Soares
 GitHub |  LinkedIn  | 
